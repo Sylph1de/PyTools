@@ -25,7 +25,7 @@ Using this tool you will be able to:
 - Make a search in youtube by title and choose from top results.
 
 ## Executables
-All executables are inside ``[module folder]\dist``.
+All executables are inside ``[module folder]\dist``.<br>
 I've tried to make relative shorcuts, but for some reason they stop working when uploaded.
 
 ## Requirements
