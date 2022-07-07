@@ -7,7 +7,7 @@ Feel free to use code as you like.
 ### Tool List:
 
 - **YT-2-File**: A Youtube to MP4 downloader. (Playlists not working ATM)
-> #### Using this tool you will be able to download:
+> #### Using this tool you will be able to:
 > - Download all **public** videos of a channel.
 > - Download all videos of a **public or not-listed** playlist.
 > - Download a **public or not-listed** video.
