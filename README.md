@@ -24,7 +24,7 @@ Using this tool you will be able to:
 - Download a **public or not-listed** video.
 - Make a search in youtube by title and choose from top results.
 
-### Requirements
+## Requirements
 
 To run these files correctly **you will need to install these modules**:
 
