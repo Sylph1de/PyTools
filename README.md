@@ -34,4 +34,4 @@ To run these files correctly **you will need to install these modules**:
 ## How to Install modules:
 
 In your terminal write:
-  pip install [module name]
+``pip install [module name]``
