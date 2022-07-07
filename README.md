@@ -6,7 +6,7 @@ Feel free to use code as you like.
 
 ## Tool List:
 
-### 1. **YT-2-File**:
+### **YT-2-File**:
 This is a Youtube to MP4 downloader.
 
 Using this tool you will be able to:
@@ -15,7 +15,7 @@ Using this tool you will be able to:
 - Download a **public or not-listed** video.
 - Make a search in youtube by title and choose from top results.
 
-### 2. **YT-2-MP3**:
+### **YT-2-MP3**:
 This is a Youtube to MP3 downloader.
 
 Using this tool you will be able to:
