@@ -30,3 +30,8 @@ To run these files correctly **you will need to install these modules**:
 
 - [PyTube](https://github.com/pytube/pytube)
 - [Pandas](https://github.com/pandas-dev/pandas)
+
+## How to Install modules:
+
+In your terminal write:
+    pip install [module name]
