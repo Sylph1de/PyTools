@@ -24,6 +24,14 @@ Using this tool you will be able to:
 - Download a **public or not-listed** video.
 - Make a search in youtube by title and choose from top results.
 
+## Executables
+
+If you want the tools as executables, you can get them here.
+- [Mega.nz](https://mega.nz/folder/20dCyCQJ#U4MzYego-kOBQYDLn1ynMQ)
+
+Executables are inside ``[module folder]\dist`` folder.
+I've tried to add a Shortcut, but it brokes when files are compressed.
+
 ## Requirements
 
 To run **py files** correctly **you will need to install these modules**:
