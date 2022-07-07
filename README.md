@@ -28,8 +28,8 @@ Using this tool you will be able to:
 
 If you want the tools as executables, you can get them at [Mega](https://mega.nz/folder/20dCyCQJ#U4MzYego-kOBQYDLn1ynMQ).
 
-Executables are inside ``[module folder]\dist`` folder.
-I've tried to add a Shortcut, but it brokes when files are compressed.
+Executables are inside ``[module folder]\dist`` folder.<br>
+I've tried to add a Shortcut, but it brokes when files are compressed, so if you need one just make it.
 
 ## Requirements
 
