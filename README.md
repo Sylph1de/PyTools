@@ -6,23 +6,11 @@ Feel free to use code as you like.
 
 ## Tool List:
 
-### **YT-2-File**:
+### **S-Tube**:
 This is a Youtube to MP4 downloader.
 
 Using this tool you will be able to:
-- Download all **public** videos of a channel.
-- Download all videos of a **public or not-listed** playlist. **(Not working)**
 - Download a **public or not-listed** video.
-- Make a search in youtube by title and choose from top results.
-
-### **YT-2-MP3**:
-This is a Youtube to MP3 downloader.
-
-Using this tool you will be able to:
-- Download all **public** videos of a channel.
-- Download all videos of a **public or not-listed** playlist. **(Not working)**
-- Download a **public or not-listed** video.
-- Make a search in youtube by title and choose from top results.
 
 ## Executables
 
@@ -36,7 +24,6 @@ I've tried to add a Shortcut, but it brokes when files are compressed, so if you
 To run **py files** correctly **you will need to install these modules**:
 
 - [PyTube](https://github.com/pytube/pytube)
-- [Pandas](https://github.com/pandas-dev/pandas)
 
 ## How to Install modules:
 
