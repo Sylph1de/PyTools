@@ -7,7 +7,7 @@ Feel free to use code as you like.
 ## Tool List:
 
 ### **S-Tube**:
-This is a Youtube to MP4 downloader.
+This is a Youtube to MP3/MP4 downloader.
 
 Using this tool you will be able to:
 - Download a **public or not-listed** video.
